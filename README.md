@@ -1,5 +1,5 @@
 # Level-100
-Game project for programming class.
+Game project for programming class. The game is a short horror game which the user at the end meets face to face with the monster.
 Here I have the codes that help the game perform at a good level.
 I have a door code which allows the player to interact with the door and actually can open it which I created a animation through Unity so the door swings open.
 I have a doorJumpscare where the player hits a trigger that is set with code then it sends a signal that the player is in this distance and then the animation runs and swings the door opend to scare the player. 
