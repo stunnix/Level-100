@@ -8,3 +8,4 @@ I have a UIController which is set as a base for all UI so when a player hovers 
 I have a WebBurn code where the player interacts through the UIController then a camrea angle is hit and triggered so the player has a different POV of what is happening.
 I have a RandomCandle code where the candles that spawn have a 1 - 4 change rate of spawning in different locations so the player has a somewhat different game experience.
 I have a BoxScare code where the player gets jumpscared by boxes falling due to a trigger that is placed infront of the boxes and activates it so the boxes fall.
+To play my game you would need to download Unity.
